@@ -1,1 +1,1 @@
-- CiphersBox takes no credit for these books, they are public knowledge.
+- CiphersBox does not take credit for these books, they are in the public domain.
